@@ -72,6 +72,9 @@ li {
 	height: 110vh;
 	position: relative;
 }
+.work {
+  height: 80vh;
+}
 
 .services,
 .work,
