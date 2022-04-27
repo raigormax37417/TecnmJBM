@@ -260,8 +260,13 @@ li {
 	font-size: 1.25rem;
 }
 .logo-img {
+<<<<<<< Updated upstream
   width: 140px;
   height: 90px;
+=======
+  width: 145px;
+  height: 100px;
+>>>>>>> Stashed changes
 }
 /****************/
 /*     Home     */
@@ -726,5 +731,9 @@ li {
 		right: -16px;
 		width: 22px;
 		background-size: 22px 34px;
+	}
+
+	p{
+		font-size: 25px;
 	}
 }
